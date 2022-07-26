@@ -1,0 +1,65 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/standards/alto/ns-v4#" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>P516-Fg011-R-C01-R01-D09092012-T133521-LR924_012_F.jpg</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT1443" LABEL="Parchment_or_papyrus" DESCRIPTION="block type Parchment_or_papyrus"/><OtherTag ID="BT2" LABEL="Main" DESCRIPTION="block type Main"/>
+    
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="3608" HEIGHT="2706" PHYSICAL_IMG_NR="8" ID="eSc_dummypage_">
+      <PrintSpace HPOS="0" VPOS="0" WIDTH="3608" HEIGHT="2706">
+        
+        <TextBlock HPOS="1302.0" VPOS="1020.0" WIDTH="1316.0" HEIGHT="897.0" ID="eSc_textblock_e8e31e20" TAGREFS="BT2">
+          <Shape><Polygon POINTS="1302 1020 1555 1707 2618 1917 2618 1477 1973 1380 1742 1020"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_1790255" BASELINE="1353 1118 1571 1122 1655 1118 1711 1104" HPOS="1351.0" VPOS="995.0" WIDTH="378.0" HEIGHT="201.0">
+            <Shape><Polygon POINTS="1355 1006 1573 1010 1649 1006 1683 995 1729 1176 1658 1192 1569 1196 1351 1192"/></Shape>
+	    <String CONTENT=" שוחד ב" HPOS="1351.0" VPOS="995.0" WIDTH="378.0" HEIGHT="201.0"><Glyph ID="char_0" CONTENT=" " GC="1.0"><Shape><Polygon POINTS="1629 1007 1637 1193 1703 1182 1658 1003"/></Shape></Glyph><Glyph ID="char_1" CONTENT="ש" GC="1.0"><Shape><Polygon POINTS="1578 1010 1586 1195 1637 1193 1629 1007"/></Shape></Glyph><Glyph ID="char_2" CONTENT="ו" GC="1.0"><Shape><Polygon POINTS="1535 1009 1530 1195 1586 1195 1578 1010"/></Shape></Glyph><Glyph ID="char_3" CONTENT="ח" GC="1.0"><Shape><Polygon POINTS="1484 1008 1479 1194 1530 1195 1535 1009"/></Shape></Glyph><Glyph ID="char_4" CONTENT="ד" GC="1.0"><Shape><Polygon POINTS="1433 1007 1428 1193 1479 1194 1484 1008"/></Shape></Glyph><Glyph ID="char_5" CONTENT=" " GC="1.0"><Shape><Polygon POINTS="1407 1007 1402 1193 1428 1193 1433 1007"/></Shape></Glyph><Glyph ID="char_6" CONTENT="ב" GC="1.0"><Shape><Polygon POINTS="1356 1006 1351 1192 1402 1193 1407 1007"/></Shape></Glyph></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_1790256" BASELINE="1384 1296 1546 1292 1713 1294 1774 1287" HPOS="1381.0" VPOS="1176.0" WIDTH="401.0" HEIGHT="194.0">
+            <Shape><Polygon POINTS="1381 1184 1543 1180 1714 1182 1761 1176 1782 1360 1712 1368 1547 1366 1385 1370"/></Shape>
+	    <String CONTENT=" וילכו אח " HPOS="1381.0" VPOS="1176.0" WIDTH="401.0" HEIGHT="194.0"><Glyph ID="char_7" CONTENT=" " GC="1.0"><Shape><Polygon POINTS="1710 1182 1731 1366 1769 1361 1748 1178"/></Shape></Glyph><Glyph ID="char_8" CONTENT="ו" GC="1.0"><Shape><Polygon POINTS="1687 1182 1685 1368 1731 1366 1710 1182"/></Shape></Glyph><Glyph ID="char_9" CONTENT="י" GC="1.0"><Shape><Polygon POINTS="1649 1181 1647 1367 1685 1368 1687 1182"/></Shape></Glyph><Glyph ID="char_10" CONTENT="ל" GC="1.0"><Shape><Polygon POINTS="1611 1181 1609 1367 1647 1367 1649 1181"/></Shape></Glyph><Glyph ID="char_11" CONTENT="כ" GC="1.0"><Shape><Polygon POINTS="1573 1180 1571 1366 1609 1367 1611 1181"/></Shape></Glyph><Glyph ID="char_12" CONTENT="ו" GC="1.0"><Shape><Polygon POINTS="1548 1180 1546 1366 1571 1366 1573 1180"/></Shape></Glyph><Glyph ID="char_13" CONTENT=" " GC="1.0"><Shape><Polygon POINTS="1506 1181 1511 1367 1546 1366 1548 1180"/></Shape></Glyph><Glyph ID="char_14" CONTENT="א" GC="1.0"><Shape><Polygon POINTS="1456 1182 1461 1368 1511 1367 1506 1181"/></Shape></Glyph><Glyph ID="char_15" CONTENT="ח" GC="1.0"><Shape><Polygon POINTS="1405 1183 1410 1369 1461 1368 1456 1182"/></Shape></Glyph><Glyph ID="char_16" CONTENT=" " GC="1.0"><Shape><Polygon POINTS="1383 1296 1407 1295"/></Shape></Glyph></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_1790257" BASELINE="1499 1477 1625 1483 1846 1486 1964 1479 2135 1452 2230 1445 2471 1445" HPOS="1495.0" VPOS="1333.0" WIDTH="976.0" HEIGHT="227.0">
+            <Shape><Polygon POINTS="1504 1365 1630 1371 1847 1374 1957 1367 2117 1341 2221 1333 2471 1333 2471 1519 2235 1519 2146 1525 1968 1553 1844 1560 1621 1557 1495 1551"/></Shape>
+	    <String CONTENT=" ת חמת אל על רוב טור " HPOS="1495.0" VPOS="1333.0" WIDTH="976.0" HEIGHT="227.0"><Glyph ID="char_17" CONTENT=" " GC="1.0"><Shape><Polygon POINTS="2382 1333 2382 1519 2445 1519 2445 1333"/></Shape></Glyph><Glyph ID="char_18" CONTENT="ת" GC="1.0"><Shape><Polygon POINTS="2332 1333 2332 1519 2382 1519 2382 1333"/></Shape></Glyph><Glyph ID="char_19" CONTENT=" " GC="1.0"><Shape><Polygon POINTS="2307 1333 2307 1519 2332 1519 2332 1333"/></Shape></Glyph><Glyph ID="char_20" CONTENT="ח" GC="1.0"><Shape><Polygon POINTS="2257 1333 2257 1519 2307 1519 2307 1333"/></Shape></Glyph><Glyph ID="char_21" CONTENT="מ" GC="1.0"><Shape><Polygon POINTS="2187 1336 2201 1521 2257 1519 2257 1333"/></Shape></Glyph><Glyph ID="char_22" CONTENT="ת" GC="1.0"><Shape><Polygon POINTS="2115 1341 2144 1525 2201 1521 2187 1336"/></Shape></Glyph><Glyph ID="char_23" CONTENT=" " GC="1.0"><Shape><Polygon POINTS="2078 1347 2107 1531 2144 1525 2115 1341"/></Shape></Glyph><Glyph ID="char_24" CONTENT="א" GC="1.0"><Shape><Polygon POINTS="2041 1353 2070 1537 2107 1531 2078 1347"/></Shape></Glyph><Glyph ID="char_25" CONTENT="ל" GC="1.0"><Shape><Polygon POINTS="1992 1361 2021 1545 2070 1537 2041 1353"/></Shape></Glyph><Glyph ID="char_26" CONTENT=" " GC="1.0"><Shape><Polygon POINTS="1968 1365 1997 1548 2021 1545 1992 1361"/></Shape></Glyph><Glyph ID="char_27" CONTENT="ע" GC="1.0"><Shape><Polygon POINTS="1941 1368 1952 1554 1997 1548 1968 1365"/></Shape></Glyph><Glyph ID="char_28" CONTENT="ל" GC="1.0"><Shape><Polygon POINTS="1904 1370 1915 1556 1952 1554 1941 1368"/></Shape></Glyph><Glyph ID="char_29" CONTENT=" " GC="1.0"><Shape><Polygon POINTS="1866 1373 1877 1558 1915 1556 1904 1370"/></Shape></Glyph><Glyph ID="char_30" CONTENT="ר" GC="1.0"><Shape><Polygon POINTS="1824 1374 1822 1560 1877 1558 1866 1373"/></Shape></Glyph><Glyph ID="char_31" CONTENT="ו" GC="1.0"><Shape><Polygon POINTS="1787 1373 1785 1559 1822 1560 1824 1374"/></Shape></Glyph><Glyph ID="char_32" CONTENT="ב" GC="1.0"><Shape><Polygon POINTS="1749 1373 1747 1559 1785 1559 1787 1373"/></Shape></Glyph><Glyph ID="char_33" CONTENT=" " GC="1.0"><Shape><Polygon POINTS="1699 1372 1697 1558 1747 1559 1749 1373"/></Shape></Glyph><Glyph ID="char_34" CONTENT="ט" GC="1.0"><Shape><Polygon POINTS="1649 1371 1647 1557 1697 1558 1699 1372"/></Shape></Glyph><Glyph ID="char_35" CONTENT="ו" GC="1.0"><Shape><Polygon POINTS="1604 1370 1594 1556 1647 1557 1649 1371"/></Shape></Glyph><Glyph ID="char_36" CONTENT="ר" GC="1.0"><Shape><Polygon POINTS="1554 1367 1544 1553 1594 1556 1604 1370"/></Shape></Glyph><Glyph ID="char_37" CONTENT=" " GC="1.0"><Shape><Polygon POINTS="1498 1476 1547 1478"/></Shape></Glyph></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_1790258" BASELINE="1752 1659 1813 1666 1905 1664 2142 1637 2327 1625 2388 1616 2451 1612 2539 1607" HPOS="1743.0" VPOS="1495.0" WIDTH="800.0" HEIGHT="244.0">
+            <Shape><Polygon POINTS="1764 1548 1825 1555 1902 1552 2129 1526 2319 1513 2371 1505 2443 1500 2532 1495 2543 1681 2455 1686 2398 1689 2331 1699 2150 1710 1906 1738 1804 1739 1743 1732"/></Shape>
+	    <String CONTENT=" תות כול דורשי ת " HPOS="1743.0" VPOS="1495.0" WIDTH="800.0" HEIGHT="244.0"><Glyph ID="char_38" CONTENT=" " GC="1.0"><Shape><Polygon POINTS="2481 1498 2492 1684 2529 1682 2518 1496"/></Shape></Glyph><Glyph ID="char_39" CONTENT="ת" GC="1.0"><Shape><Polygon POINTS="2431 1501 2442 1687 2492 1684 2481 1498"/></Shape></Glyph><Glyph ID="char_40" CONTENT="ו" GC="1.0"><Shape><Polygon POINTS="2359 1507 2386 1691 2442 1687 2431 1501"/></Shape></Glyph><Glyph ID="char_41" CONTENT="ת" GC="1.0"><Shape><Polygon POINTS="2321 1513 2348 1696 2386 1691 2359 1507"/></Shape></Glyph><Glyph ID="char_42" CONTENT=" " GC="1.0"><Shape><Polygon POINTS="2293 1515 2305 1701 2348 1696 2321 1513"/></Shape></Glyph><Glyph ID="char_43" CONTENT="כ" GC="1.0"><Shape><Polygon POINTS="2243 1518 2255 1704 2305 1701 2293 1515"/></Shape></Glyph><Glyph ID="char_44" CONTENT="ו" GC="1.0"><Shape><Polygon POINTS="2206 1521 2218 1706 2255 1704 2243 1518"/></Shape></Glyph><Glyph ID="char_45" CONTENT="ל" GC="1.0"><Shape><Polygon POINTS="2181 1522 2193 1707 2218 1706 2206 1521"/></Shape></Glyph><Glyph ID="char_46" CONTENT=" " GC="1.0"><Shape><Polygon POINTS="2125 1526 2146 1710 2193 1707 2181 1522"/></Shape></Glyph><Glyph ID="char_47" CONTENT="ד" GC="1.0"><Shape><Polygon POINTS="2076 1532 2097 1716 2146 1710 2125 1526"/></Shape></Glyph><Glyph ID="char_48" CONTENT="ו" GC="1.0"><Shape><Polygon POINTS="2038 1536 2059 1720 2097 1716 2076 1532"/></Shape></Glyph><Glyph ID="char_49" CONTENT="ר" GC="1.0"><Shape><Polygon POINTS="1975 1544 1996 1728 2059 1720 2038 1536"/></Shape></Glyph><Glyph ID="char_50" CONTENT="ש" GC="1.0"><Shape><Polygon POINTS="1914 1551 1935 1735 1996 1728 1975 1544"/></Shape></Glyph><Glyph ID="char_51" CONTENT="י" GC="1.0"><Shape><Polygon POINTS="1886 1553 1890 1738 1935 1735 1914 1551"/></Shape></Glyph><Glyph ID="char_52" CONTENT=" " GC="1.0"><Shape><Polygon POINTS="1848 1554 1852 1739 1890 1738 1886 1553"/></Shape></Glyph><Glyph ID="char_53" CONTENT="ת" GC="1.0"><Shape><Polygon POINTS="1803 1552 1779 1736 1852 1739 1848 1554"/></Shape></Glyph><Glyph ID="char_54" CONTENT=" " GC="1.0"><Shape><Polygon POINTS="1751 1658 1788 1662"/></Shape></Glyph></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_1790259" BASELINE="2227 1837 2455 1824" HPOS="2220.0" VPOS="1712.0" WIDTH="239.0" HEIGHT="199.0">
+            <Shape><Polygon POINTS="2220 1725 2448 1712 2459 1898 2231 1911"/></Shape>
+	    <String CONTENT=" ל ו על " HPOS="2220.0" VPOS="1712.0" WIDTH="239.0" HEIGHT="199.0"><Glyph ID="char_55" CONTENT=" " GC="1.0"><Shape><Polygon POINTS="2410 1714 2421 1900 2446 1899 2435 1713"/></Shape></Glyph><Glyph ID="char_56" CONTENT="ל" GC="1.0"><Shape><Polygon POINTS="2397 1715 2408 1901 2421 1900 2410 1714"/></Shape></Glyph><Glyph ID="char_57" CONTENT=" " GC="1.0"><Shape><Polygon POINTS="2384 1716 2395 1902 2408 1901 2397 1715"/></Shape></Glyph><Glyph ID="char_58" CONTENT="ו" GC="1.0"><Shape><Polygon POINTS="2372 1716 2383 1902 2395 1902 2384 1716"/></Shape></Glyph><Glyph ID="char_59" CONTENT=" " GC="1.0"><Shape><Polygon POINTS="2334 1718 2345 1904 2383 1902 2372 1716"/></Shape></Glyph><Glyph ID="char_60" CONTENT="ע" GC="1.0"><Shape><Polygon POINTS="2296 1721 2306 1907 2345 1904 2334 1718"/></Shape></Glyph><Glyph ID="char_61" CONTENT="ל" GC="1.0"><Shape><Polygon POINTS="2271 1722 2281 1908 2306 1907 2296 1721"/></Shape></Glyph><Glyph ID="char_62" CONTENT=" " GC="1.0"><Shape><Polygon POINTS="2226 1837 2276 1834"/></Shape></Glyph></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

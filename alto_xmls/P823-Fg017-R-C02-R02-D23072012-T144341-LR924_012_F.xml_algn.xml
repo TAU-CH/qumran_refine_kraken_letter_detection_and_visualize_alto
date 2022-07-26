@@ -1,0 +1,72 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/standards/alto/ns-v4#" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>P823-Fg017-R-C02-R02-D23072012-T144341-LR924_012_F.jpg</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT1443" LABEL="Parchment_or_papyrus" DESCRIPTION="block type Parchment_or_papyrus"/><OtherTag ID="BT2" LABEL="Main" DESCRIPTION="block type Main"/>
+    
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="3608" HEIGHT="2706" PHYSICAL_IMG_NR="328" ID="eSc_dummypage_">
+      <PrintSpace HPOS="0" VPOS="0" WIDTH="3608" HEIGHT="2706">
+        
+        <TextBlock HPOS="1699.0" VPOS="751.0" WIDTH="731.0" HEIGHT="1274.0" ID="eSc_textblock_ff92035b" TAGREFS="BT2">
+          <Shape><Polygon POINTS="1699 751 1699 2025 2430 2025 2430 751"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_1791010" BASELINE="1736 929 1903 920 2161 933" HPOS="1729.0" VPOS="803.0" WIDTH="437.0" HEIGHT="207.0">
+            <Shape><Polygon POINTS="1729 812 1896 803 2166 816 2157 1010 1907 997 1740 1006"/></Shape>
+	    <String CONTENT=" שנ " HPOS="1729.0" VPOS="803.0" WIDTH="437.0" HEIGHT="207.0"><Glyph ID="char_0" CONTENT=" " GC="1.0"><Shape><Polygon POINTS="1994 808 1984 1001 2090 1006 2099 813"/></Shape></Glyph><Glyph ID="char_1" CONTENT="ש" GC="1.0"><Shape><Polygon POINTS="1914 804 1904 997 1984 1001 1994 808"/></Shape></Glyph><Glyph ID="char_2" CONTENT="נ" GC="1.0"><Shape><Polygon POINTS="1836 806 1846 1000 1904 997 1914 804"/></Shape></Glyph><Glyph ID="char_3" CONTENT=" " GC="1.0"><Shape><Polygon POINTS="1743 811 1753 1005 1846 1000 1836 806"/></Shape></Glyph></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_1791011" BASELINE="1749 1118 1815 1129 1882 1132 2133 1132" HPOS="1736.0" VPOS="1003.0" WIDTH="397.0" HEIGHT="206.0">
+            <Shape><Polygon POINTS="1768 1003 1834 1014 1887 1015 2133 1015 2133 1209 1878 1209 1802 1205 1736 1194"/></Shape>
+	    <String CONTENT=" ש יע" HPOS="1736.0" VPOS="1003.0" WIDTH="397.0" HEIGHT="206.0"><Glyph ID="char_4" CONTENT=" " GC="1.0"><Shape><Polygon POINTS="1973 1015 1973 1209 2079 1209 2079 1015"/></Shape></Glyph><Glyph ID="char_5" CONTENT="ש" GC="1.0"><Shape><Polygon POINTS="1906 1015 1906 1209 1973 1209 1973 1015"/></Shape></Glyph><Glyph ID="char_6" CONTENT=" " GC="1.0"><Shape><Polygon POINTS="1858 1014 1849 1207 1906 1209 1906 1015"/></Shape></Glyph><Glyph ID="char_7" CONTENT="י" GC="1.0"><Shape><Polygon POINTS="1808 1010 1774 1200 1849 1207 1858 1014"/></Shape></Glyph><Glyph ID="char_8" CONTENT="ע" GC="1.0"><Shape><Polygon POINTS="1748 1117 1787 1124"/></Shape></Glyph></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_1791012" BASELINE="1912 1317 2058 1307 2338 1320" HPOS="1904.0" VPOS="1190.0" WIDTH="439.0" HEIGHT="207.0">
+            <Shape><Polygon POINTS="1904 1200 2050 1190 2343 1203 2334 1397 2063 1384 1917 1394"/></Shape>
+	    <String CONTENT=" דנ" HPOS="1904.0" VPOS="1190.0" WIDTH="439.0" HEIGHT="207.0"><Glyph ID="char_9" CONTENT=" " GC="1.0"><Shape><Polygon POINTS="2140 1194 2131 1387 2262 1394 2271 1200"/></Shape></Glyph><Glyph ID="char_10" CONTENT="ד" GC="1.0"><Shape><Polygon POINTS="2008 1193 2021 1387 2131 1387 2140 1194"/></Shape></Glyph><Glyph ID="char_11" CONTENT="נ" GC="1.0"><Shape><Polygon POINTS="1911 1317 2015 1309"/></Shape></Glyph></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_1791013" BASELINE="1747 1495 1808 1492 1925 1499 2101 1501 2227 1513 2309 1508" HPOS="1741.0" VPOS="1375.0" WIDTH="572.0" HEIGHT="215.0">
+            <Shape><Polygon POINTS="1741 1378 1802 1375 1931 1382 2102 1384 2238 1397 2301 1391 2313 1585 2219 1590 2100 1578 1920 1576 1811 1569 1750 1572"/></Shape>
+	    <String CONTENT=" בה בה שביע " HPOS="1741.0" VPOS="1375.0" WIDTH="572.0" HEIGHT="215.0"><Glyph ID="char_12" CONTENT=" " GC="1.0"><Shape><Polygon POINTS="2246 1396 2258 1588 2297 1586 2285 1393"/></Shape></Glyph><Glyph ID="char_13" CONTENT="ב" GC="1.0"><Shape><Polygon POINTS="2225 1396 2207 1589 2258 1588 2246 1396"/></Shape></Glyph><Glyph ID="char_14" CONTENT="ה" GC="1.0"><Shape><Polygon POINTS="2173 1391 2155 1584 2207 1589 2225 1396"/></Shape></Glyph><Glyph ID="char_15" CONTENT=" " GC="1.0"><Shape><Polygon POINTS="2135 1387 2116 1580 2155 1584 2173 1391"/></Shape></Glyph><Glyph ID="char_16" CONTENT="ב" GC="1.0"><Shape><Polygon POINTS="2073 1384 2071 1578 2116 1580 2135 1387"/></Shape></Glyph><Glyph ID="char_17" CONTENT="ה" GC="1.0"><Shape><Polygon POINTS="2020 1383 2018 1577 2071 1578 2073 1384"/></Shape></Glyph><Glyph ID="char_18" CONTENT=" " GC="1.0"><Shape><Polygon POINTS="1981 1383 1979 1577 2018 1577 2020 1383"/></Shape></Glyph><Glyph ID="char_19" CONTENT="ש" GC="1.0"><Shape><Polygon POINTS="1929 1382 1927 1576 1979 1577 1981 1383"/></Shape></Glyph><Glyph ID="char_20" CONTENT="ב" GC="1.0"><Shape><Polygon POINTS="1870 1379 1858 1572 1927 1576 1929 1382"/></Shape></Glyph><Glyph ID="char_21" CONTENT="י" GC="1.0"><Shape><Polygon POINTS="1818 1376 1806 1569 1858 1572 1870 1379"/></Shape></Glyph><Glyph ID="char_22" CONTENT="ע" GC="1.0"><Shape><Polygon POINTS="1779 1376 1789 1570 1806 1569 1818 1376"/></Shape></Glyph><Glyph ID="char_23" CONTENT=" " GC="1.0"><Shape><Polygon POINTS="1746 1495 1784 1493"/></Shape></Glyph></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_1791014" BASELINE="1867 1711 2103 1734 2340 1736" HPOS="1859.0" VPOS="1595.0" WIDTH="481.0" HEIGHT="218.0">
+            <Shape><Polygon POINTS="1878 1595 2114 1618 2340 1619 2339 1813 2095 1811 1859 1788"/></Shape>
+	    <String CONTENT=" קבל שאר" HPOS="1859.0" VPOS="1595.0" WIDTH="481.0" HEIGHT="218.0"><Glyph ID="char_24" CONTENT=" " GC="1.0"><Shape><Polygon POINTS="2300 1619 2298 1813 2324 1813 2326 1619"/></Shape></Glyph><Glyph ID="char_25" CONTENT="ק" GC="1.0"><Shape><Polygon POINTS="2248 1619 2246 1812 2298 1813 2300 1619"/></Shape></Glyph><Glyph ID="char_26" CONTENT="ב" GC="1.0"><Shape><Polygon POINTS="2182 1618 2180 1812 2246 1812 2248 1619"/></Shape></Glyph><Glyph ID="char_27" CONTENT="ל" GC="1.0"><Shape><Polygon POINTS="2142 1618 2140 1811 2180 1812 2182 1618"/></Shape></Glyph><Glyph ID="char_28" CONTENT=" " GC="1.0"><Shape><Polygon POINTS="2116 1618 2114 1811 2140 1811 2142 1618"/></Shape></Glyph><Glyph ID="char_29" CONTENT="ש" GC="1.0"><Shape><Polygon POINTS="2048 1612 2028 1805 2114 1811 2116 1618"/></Shape></Glyph><Glyph ID="char_30" CONTENT="א" GC="1.0"><Shape><Polygon POINTS="1969 1604 1950 1797 2028 1805 2048 1612"/></Shape></Glyph><Glyph ID="char_31" CONTENT="ר" GC="1.0"><Shape><Polygon POINTS="1892 1596 1872 1789 1950 1797 1969 1604"/></Shape></Glyph></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_1791015" BASELINE="2018 1919 2225 1919 2191 1912 2288 1905" HPOS="2018.0" VPOS="1788.0" WIDTH="283.28999999999996" HEIGHT="238.0">
+            <Shape><Polygon POINTS="2018 1802 2225 1802 2167 2026 2279 1788 2293 1982 2301.29 1996 2225 1996 2018 1996"/></Shape>
+	    <String CONTENT=" א דנ" HPOS="2018.0" VPOS="1788.0" WIDTH="283.28999999999996" HEIGHT="238.0"><Glyph ID="char_32" CONTENT=" " GC="1.0"><Shape><Polygon POINTS="2187 1983 2225 1802 2264 1996 2253 1844"/></Shape></Glyph><Glyph ID="char_33" CONTENT="א" GC="1.0"><Shape><Polygon POINTS="2172 1802 2172 2007 2225 1802 2187 1983"/></Shape></Glyph><Glyph ID="char_34" CONTENT=" " GC="1.0"><Shape><Polygon POINTS="2111 1802 2111 1996 2172 2007 2172 1802"/></Shape></Glyph><Glyph ID="char_35" CONTENT="ד" GC="1.0"><Shape><Polygon POINTS="2064 1802 2064 1996 2111 1996 2111 1802"/></Shape></Glyph><Glyph ID="char_36" CONTENT="נ" GC="1.0"><Shape><Polygon POINTS="2018 1802 2018 1996 2064 1996 2064 1802"/></Shape></Glyph></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

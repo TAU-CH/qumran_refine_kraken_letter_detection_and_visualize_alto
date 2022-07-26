@@ -1,0 +1,104 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/standards/alto/ns-v4#" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>P592-Fg005-R-C01-R01-D04032013-T093710-LR924_012.jpg</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT1443" LABEL="Parchment_or_papyrus" DESCRIPTION="block type Parchment_or_papyrus"/><OtherTag ID="BT2" LABEL="Main" DESCRIPTION="block type Main"/>
+    
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="3608" HEIGHT="2706" PHYSICAL_IMG_NR="108" ID="eSc_dummypage_">
+      <PrintSpace HPOS="0" VPOS="0" WIDTH="3608" HEIGHT="2706">
+        
+        <TextBlock HPOS="1573.0" VPOS="1084.0" WIDTH="597.0" HEIGHT="925.0" ID="eSc_textblock_4fafdd06" TAGREFS="BT2">
+          <Shape><Polygon POINTS="1573 1084 1704 1977 2121 2009 2170 1084"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_1790591" BASELINE="1700 1195 2112 1195" HPOS="1700.0" VPOS="1082.0" WIDTH="412.0" HEIGHT="188.0">
+            <Shape><Polygon POINTS="1700 1082 2112 1082 2112 1270 1700 1270"/></Shape>
+	    <String CONTENT=" תם חו " HPOS="1700.0" VPOS="1082.0" WIDTH="412.0" HEIGHT="188.0"><Glyph ID="char_0" CONTENT=" " GC="1.0"><Shape><Polygon POINTS="2035 1082 2035 1270 2100 1270 2100 1082"/></Shape></Glyph><Glyph ID="char_1" CONTENT="ת" GC="1.0"><Shape><Polygon POINTS="1958 1082 1958 1270 2035 1270 2035 1082"/></Shape></Glyph><Glyph ID="char_2" CONTENT="ם" GC="1.0"><Shape><Polygon POINTS="1919 1082 1919 1270 1958 1270 1958 1082"/></Shape></Glyph><Glyph ID="char_3" CONTENT=" " GC="1.0"><Shape><Polygon POINTS="1868 1082 1868 1270 1919 1270 1919 1082"/></Shape></Glyph><Glyph ID="char_4" CONTENT="ח" GC="1.0"><Shape><Polygon POINTS="1804 1082 1804 1270 1868 1270 1868 1082"/></Shape></Glyph><Glyph ID="char_5" CONTENT="ו" GC="1.0"><Shape><Polygon POINTS="1778 1082 1778 1270 1804 1270 1804 1082"/></Shape></Glyph><Glyph ID="char_6" CONTENT=" " GC="1.0"><Shape><Polygon POINTS="1713 1082 1713 1270 1778 1270 1778 1082"/></Shape></Glyph></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_1790593" BASELINE="1585 1389 1731 1393 1844 1384 1950 1375 2029 1375" HPOS="1582.0" VPOS="1262.0" WIDTH="447.0" HEIGHT="206.0">
+            <Shape><Polygon POINTS="1588 1276 1734 1280 1835 1271 1940 1262 2029 1262 2029 1450 1956 1449 1849 1458 1728 1468 1582 1464"/></Shape>
+	    <String CONTENT=" ל א ידעתם " HPOS="1582.0" VPOS="1262.0" WIDTH="447.0" HEIGHT="206.0"><Glyph ID="char_7" CONTENT=" " GC="1.0"><Shape><Polygon POINTS="2002 1262 2002 1450 2027 1450 2027 1262"/></Shape></Glyph><Glyph ID="char_8" CONTENT="ל" GC="1.0"><Shape><Polygon POINTS="1990 1262 1990 1449 2002 1450 2002 1262"/></Shape></Glyph><Glyph ID="char_9" CONTENT=" " GC="1.0"><Shape><Polygon POINTS="1964 1262 1964 1449 1990 1449 1990 1262"/></Shape></Glyph><Glyph ID="char_10" CONTENT="א" GC="1.0"><Shape><Polygon POINTS="1930 1263 1945 1450 1964 1449 1964 1262"/></Shape></Glyph><Glyph ID="char_11" CONTENT=" " GC="1.0"><Shape><Polygon POINTS="1892 1266 1908 1453 1945 1450 1930 1263"/></Shape></Glyph><Glyph ID="char_12" CONTENT="י" GC="1.0"><Shape><Polygon POINTS="1854 1269 1870 1456 1908 1453 1892 1266"/></Shape></Glyph><Glyph ID="char_13" CONTENT="ד" GC="1.0"><Shape><Polygon POINTS="1804 1274 1819 1461 1870 1456 1854 1269"/></Shape></Glyph><Glyph ID="char_14" CONTENT="ע" GC="1.0"><Shape><Polygon POINTS="1753 1278 1768 1465 1819 1461 1804 1274"/></Shape></Glyph><Glyph ID="char_15" CONTENT="ת" GC="1.0"><Shape><Polygon POINTS="1715 1279 1708 1467 1768 1465 1753 1278"/></Shape></Glyph><Glyph ID="char_16" CONTENT="ם" GC="1.0"><Shape><Polygon POINTS="1664 1278 1657 1466 1708 1467 1715 1279"/></Shape></Glyph><Glyph ID="char_17" CONTENT=" " GC="1.0"><Shape><Polygon POINTS="1601 1276 1594 1464 1657 1466 1664 1278"/></Shape></Glyph></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_1790594" BASELINE="1639 1558 1763 1555 2167 1567" HPOS="1636.0" VPOS="1442.0" WIDTH="534.0" HEIGHT="200.0">
+            <Shape><Polygon POINTS="1636 1445 1760 1442 2170 1454 2164 1642 1764 1630 1640 1633"/></Shape>
+	    <String CONTENT=" לחול ואת " HPOS="1636.0" VPOS="1442.0" WIDTH="534.0" HEIGHT="200.0"><Glyph ID="char_18" CONTENT=" " GC="1.0"><Shape><Polygon POINTS="2066 1451 2061 1639 2125 1641 2130 1453"/></Shape></Glyph><Glyph ID="char_19" CONTENT="ל" GC="1.0"><Shape><Polygon POINTS="2027 1450 2022 1638 2061 1639 2066 1451"/></Shape></Glyph><Glyph ID="char_20" CONTENT="ח" GC="1.0"><Shape><Polygon POINTS="1976 1448 1971 1636 2022 1638 2027 1450"/></Shape></Glyph><Glyph ID="char_21" CONTENT="ו" GC="1.0"><Shape><Polygon POINTS="1924 1447 1919 1635 1971 1636 1976 1448"/></Shape></Glyph><Glyph ID="char_22" CONTENT="ל" GC="1.0"><Shape><Polygon POINTS="1886 1446 1881 1634 1919 1635 1924 1447"/></Shape></Glyph><Glyph ID="char_23" CONTENT=" " GC="1.0"><Shape><Polygon POINTS="1847 1445 1842 1632 1881 1634 1886 1446"/></Shape></Glyph><Glyph ID="char_24" CONTENT="ו" GC="1.0"><Shape><Polygon POINTS="1809 1443 1804 1631 1842 1632 1847 1445"/></Shape></Glyph><Glyph ID="char_25" CONTENT="א" GC="1.0"><Shape><Polygon POINTS="1770 1442 1765 1630 1804 1631 1809 1443"/></Shape></Glyph><Glyph ID="char_26" CONTENT="ת" GC="1.0"><Shape><Polygon POINTS="1687 1444 1692 1632 1765 1630 1770 1442"/></Shape></Glyph><Glyph ID="char_27" CONTENT=" " GC="1.0"><Shape><Polygon POINTS="1638 1558 1689 1556"/></Shape></Glyph></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_1790595" BASELINE="1670 1729 1849 1725 2083 1725" HPOS="1667.0" VPOS="1612.0" WIDTH="416.0" HEIGHT="192.0">
+            <Shape><Polygon POINTS="1667 1616 1846 1612 2083 1612 2083 1800 1850 1800 1671 1804"/></Shape>
+	    <String CONTENT=" ל עם אשמ " HPOS="1667.0" VPOS="1612.0" WIDTH="416.0" HEIGHT="192.0"><Glyph ID="char_28" CONTENT=" " GC="1.0"><Shape><Polygon POINTS="2070 1612 2070 1800 2082 1800 2082 1612"/></Shape></Glyph><Glyph ID="char_29" CONTENT="ל" GC="1.0"><Shape><Polygon POINTS="2057 1612 2057 1800 2070 1800 2070 1612"/></Shape></Glyph><Glyph ID="char_30" CONTENT=" " GC="1.0"><Shape><Polygon POINTS="2031 1612 2031 1800 2057 1800 2057 1612"/></Shape></Glyph><Glyph ID="char_31" CONTENT="ע" GC="1.0"><Shape><Polygon POINTS="1992 1612 1992 1800 2031 1800 2031 1612"/></Shape></Glyph><Glyph ID="char_32" CONTENT="ם" GC="1.0"><Shape><Polygon POINTS="1941 1612 1941 1800 1992 1800 1992 1612"/></Shape></Glyph><Glyph ID="char_33" CONTENT=" " GC="1.0"><Shape><Polygon POINTS="1902 1612 1902 1800 1941 1800 1941 1612"/></Shape></Glyph><Glyph ID="char_34" CONTENT="א" GC="1.0"><Shape><Polygon POINTS="1834 1612 1839 1800 1902 1800 1902 1612"/></Shape></Glyph><Glyph ID="char_35" CONTENT="ש" GC="1.0"><Shape><Polygon POINTS="1770 1614 1775 1802 1839 1800 1834 1612"/></Shape></Glyph><Glyph ID="char_36" CONTENT="מ" GC="1.0"><Shape><Polygon POINTS="1705 1615 1710 1803 1775 1802 1770 1614"/></Shape></Glyph><Glyph ID="char_37" CONTENT=" " GC="1.0"><Shape><Polygon POINTS="1669 1729 1707 1728"/></Shape></Glyph></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_1804233" BASELINE="1915 1943 2072 1947" HPOS="1913.0" VPOS="1830.0" WIDTH="161.0" HEIGHT="192.0">
+            <Shape><Polygon POINTS="1917 1830 2074 1834 2070 2022 1913 2018"/></Shape>
+	    <String CONTENT="" HPOS="1913.0" VPOS="1830.0" WIDTH="161.0" HEIGHT="192.0"/>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+        <TextBlock ID="eSc_dummyblock_">
+          
+          
+          <TextLine ID="eSc_line_f5a121fd" BASELINE="1695 1190 2117 1197" HPOS="1695" VPOS="1082" WIDTH="422" HEIGHT="189">
+            <Shape><Polygon POINTS="1695 1190 1698 1125 1720 1122 1767 1082 1794 1082 1817 1104 1864 1125 1916 1084 1939 1095 1973 1084 2043 1145 2110 1145 2117 1197 2110 1271 2076 1271 2031 1253 1937 1269 1903 1251 1844 1258 1835 1249 1808 1267 1770 1267 1747 1249 1698 1267"/></Shape>
+	    <String CONTENT="" HPOS="1695" VPOS="1082" WIDTH="422" HEIGHT="189"/>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_87315d73" BASELINE="1585 1389 1889 1386 2020 1373" HPOS="1585" VPOS="1341" WIDTH="435" HEIGHT="131">
+            <Shape><Polygon POINTS="1585 1389 1587 1343 1630 1350 1673 1341 1736 1362 1767 1362 1792 1346 1806 1359 1824 1359 1858 1343 1876 1355 1898 1343 1914 1357 1968 1357 1997 1343 2013 1350 2020 1373 2015 1429 1957 1434 1948 1443 1925 1431 1887 1431 1864 1454 1831 1438 1781 1470 1749 1470 1736 1458 1722 1470 1650 1472 1623 1447 1589 1438"/></Shape>
+	    <String CONTENT="" HPOS="1585" VPOS="1341" WIDTH="435" HEIGHT="131"/>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_5f38e68d" BASELINE="1641 1562 2158 1562" HPOS="1641" VPOS="1499" WIDTH="512" HEIGHT="138">
+            <Shape><Polygon POINTS="1641 1562 1646 1517 1668 1515 1686 1499 1743 1499 1781 1533 1824 1519 1846 1533 1961 1531 1986 1508 2058 1533 2092 1499 2153 1506 2153 1603 2139 1598 2112 1616 2092 1598 2054 1598 1984 1637 1923 1637 1867 1598 1822 1634 1738 1637 1700 1598 1646 1603"/></Shape>
+	    <String CONTENT="" HPOS="1641" VPOS="1499" WIDTH="512" HEIGHT="138"/>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_ebda5be1" BASELINE="1670 1729 2081 1716" HPOS="1670" VPOS="1652" WIDTH="411" HEIGHT="253">
+            <Shape><Polygon POINTS="1670 1729 1670 1659 1734 1652 1756 1652 1819 1695 1828 1686 1840 1695 1864 1693 1891 1679 1903 1688 1925 1673 1975 1673 2011 1688 2056 1688 2074 1675 2081 1716 2079 1844 2002 1846 1982 1867 1970 1858 1939 1887 1928 1880 1905 1903 1878 1905 1779 1903 1677 1858"/></Shape>
+	    <String CONTENT="" HPOS="1670" VPOS="1652" WIDTH="411" HEIGHT="253"/>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_fe22a8cd" BASELINE="1919 1932 2070 1943" HPOS="1919" VPOS="1887" WIDTH="151" HEIGHT="81">
+            <Shape><Polygon POINTS="1919 1932 1925 1887 1934 1887 2018 1914 2031 1930 2065 1932 2070 1943 2031 1946 1979 1968 1955 1966 1921 1939"/></Shape>
+	    <String CONTENT="" HPOS="1919" VPOS="1887" WIDTH="151" HEIGHT="81"/>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>
