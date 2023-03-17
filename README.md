@@ -8,4 +8,4 @@ We split a component traversing through several character segments by assigning 
 
 In addition to the implementation of our energy minimization approach, the repository also includes code to read the Alto XML file and visualize it overlapping on the document image. This allows for easier and more accurate analysis of the segmentation results. 
 
-To see the details of the data processing, experimental results, and code implementation, please refer to the [PDF file](https://github.com/beratkurar/visualize_alto_and_refine_kraken_letter_detection/character_segmentation_improvement_of_kraken_using_em_IOQS.pdf), which is available in the repository.
+To see the details of the data processing, experimental results, and code implementation, please refer to the [PDF file](https://github.com/beratkurar/visualize_alto_and_refine_kraken_letter_detection/blob/main/character_segmentation_improvement_of_kraken_using_em_IOQS.pdf), which is available in the repository.
