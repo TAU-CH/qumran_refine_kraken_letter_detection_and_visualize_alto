@@ -1,6 +1,6 @@
 # Improving Kraken’s character segmentation using Energy Minimization
 
-This repository consists of a project to improve character segmentation in Kraken using energy minimization framework. In our approach, we assume each character segment in Kraken corresponds to one and only one character, but each character might consist of several connected components. 
+This repository consists of a [project](https://beratkurar.github.io/academic_writings/improving_kraken_character_segmentation_using_energy_minimization.pdf) to improve character segmentation in Kraken using energy minimization framework. In our approach, we assume each character segment in Kraken corresponds to one and only one character, but each character might consist of several connected components. 
 
 Using the energy minimization technique, we find a labeling `f` that assigns each component to a label such that the energy function `E(f)` has the minimum value. We use the Euclidean distance between the centroids of the component and the nearest character segment from Kraken as the data cost. For the smoothness cost, we use the cost of assigning neighboring elements to different labels. 
 
